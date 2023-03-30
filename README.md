@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SevaStopAll
-- 👀 I’m interested in Java programming and learning something new.
-- 🌱 I’m currently learning Java and CS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vsevolod!
+- I learn Java at [Job4j](https://job4j.ru/) 
 
-
+![Java](https://img.shields.io/badge/Java-%3E%3D8-green)
+![Spring](https://img.shields.io/badge/Spring-%3E5-success)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E5-yellow)
