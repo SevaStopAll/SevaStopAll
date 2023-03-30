@@ -13,7 +13,6 @@
 ##### Projects:
 1. [Console CRUD app using JDBC](https://github.com/SevaStopAll/job4j_tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/SevaStopAll/job4j_grabber)
-3. [Simulating RabbitMQ using Servlet API](https://github.com/SevaStopAll/job4j_pool)
-4. [TodoList using Servlet API & Hibernate](https://github.com/SevaStopAll/job4j_todo)
-5. [Car market using Servlet API & Hibernate](https://github.com/SevaStopAll/job4j_cars)
-6. [Job market using Servlet API & Hibernate](https://github.com/SevaStopAll/job4j_dreamjob)
+3. [TodoList using Servlet API & Hibernate](https://github.com/SevaStopAll/job4j_todo)
+4. [Car market using Servlet API & Hibernate](https://github.com/SevaStopAll/job4j_cars)
+5. [Job market using Servlet API](https://github.com/SevaStopAll/job4j_dreamjob)
