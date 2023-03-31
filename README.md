@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vsevolod</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/SevaStopAll" target="_blank">Vsevolod</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">- I learn Java at [Job4j](https://job4j.ru/)</h3>
 
