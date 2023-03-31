@@ -19,3 +19,6 @@
 
 My current project!
 8. [Accidents report system using Spring](https://github.com/SevaStopAll/job4j_accidents)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
