@@ -19,6 +19,6 @@
 8. [Accidents report system using Spring](https://github.com/SevaStopAll/job4j_accidents)
 9. [URL shortener in REST style](https://github.com/SevaStopAll/job4j_url_shortcut)
 10. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
-11. [A kind of school application] (https://github.com/SevaStopAll/school_app)
+11. Current! [A kind of school application](https://github.com/SevaStopAll/school_app)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
