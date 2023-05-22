@@ -17,6 +17,8 @@
 6. [TodoList using Spring Boot & Hibernate](https://github.com/SevaStopAll/job4j_todo)
 7. [Car market using Spring Boot & Hibernate](https://github.com/SevaStopAll/job4j_cars)
 8. [Accidents report system using Spring](https://github.com/SevaStopAll/job4j_accidents)
-9. My current project! [URL shortener in REST style](https://github.com/SevaStopAll/job4j_url_shortcut)
+9. [URL shortener in REST style](https://github.com/SevaStopAll/job4j_url_shortcut)
+10. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
+11. [A kind of school application] (https://github.com/SevaStopAll/school_app)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
