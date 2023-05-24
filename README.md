@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">- I learn Java at [Job4j](https://job4j.ru/)</h3>
 
+[Мой Telegram](tlgg.ru/vsevolod_prof)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SevaStopAll&hide=stars,prs,issues,contribs) 
 
@@ -19,7 +21,5 @@
 10. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
 11. Current! [A kind of school application](https://github.com/SevaStopAll/school_app)
 
-
-Мой Telegram tlgg.ru/vsevolod_prof
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
