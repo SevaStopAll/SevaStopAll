@@ -2,9 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">- I learn Java at [Job4j](https://job4j.ru/)</h3>
 
-<h3 align="center">- My [Telegram](tlgg.ru/vsevolod_prof/)</h3>
-
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SevaStopAll&hide=stars,prs,issues,contribs) 
 
