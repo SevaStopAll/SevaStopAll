@@ -20,6 +20,6 @@
 11. Current! [A kind of school application](https://github.com/SevaStopAll/school_app)
 
 
-Мой Telegram @vsevolod_prof
+Мой Telegram t-do.ru/vsevolod_prof
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
