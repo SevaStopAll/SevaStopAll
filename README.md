@@ -3,13 +3,25 @@
 <h3 align="center">- I learn Java at [Job4j](https://job4j.ru/)</h3>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I want to work as a Software Java Engineer and contributing to backend for my work helps people.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-SevaStopAll-blue?style=flat&logo=Telegram&logoColor=white)](@vsevolod_prof)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vsevolod_prof-blue?style=flat&logo=Telegram&logoColor=white)](@vsevolod_prof)
+
+
+### :hammer_and_wrench: Languages and Tools :
+  
+<img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
+<img src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
+<img src ="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+<img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SevaStopAll&hide=stars,prs,issues,contribs) 
 
