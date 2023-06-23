@@ -28,6 +28,7 @@
 
 ##### Projects:
 My current Project! [A kind of school application](https://github.com/SevaStopAll/school_app)
+Other projects: 
 1. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/SevaStopAll/job4j_grabber)
 3. [Asynchronic queue using Java multithreading](https://github.com/SevaStopAll/job4j_pooh)
