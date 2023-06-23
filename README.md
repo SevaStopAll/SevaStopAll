@@ -27,7 +27,8 @@
 
 
 ##### Projects:
-1. [Console CRUD app using JDBC](https://github.com/SevaStopAll/job4j_tracker)
+My current Project! [A kind of school application](https://github.com/SevaStopAll/school_app)
+1. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/SevaStopAll/job4j_grabber)
 3. [Asynchronic queue using Java multithreading](https://github.com/SevaStopAll/job4j_pooh)
 4. [Job market using Spring boot](https://github.com/SevaStopAll/job4j_dreamjob)
@@ -36,8 +37,7 @@
 7. [Car market using Spring Boot & Hibernate](https://github.com/SevaStopAll/job4j_cars)
 8. [Accidents report system using Spring](https://github.com/SevaStopAll/job4j_accidents)
 9. [URL shortener in REST style](https://github.com/SevaStopAll/job4j_url_shortcut)
-10. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
-11. Current! [A kind of school application](https://github.com/SevaStopAll/school_app)
+10. [Console CRUD app using JDBC](https://github.com/SevaStopAll/job4j_tracker) 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SevaStopAll)](https://github.com/ryo-ma/github-profile-trophy)
