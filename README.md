@@ -9,7 +9,7 @@
 
 - :zap: In my free time, I watch my son is growing up and try to help him to become a better human than me.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vsevolod_prof-blue?style=flat&logo=Telegram&logoColor=white)](@vsevolod_prof)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vsevolod_prof-blue?style=flat&logo=Telegram&logoColor=white)](@vsevolod_prof)
 
 
 ### :hammer_and_wrench: Languages and Tools :
