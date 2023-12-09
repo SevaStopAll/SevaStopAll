@@ -3,11 +3,11 @@
 <h3 align="center">- I learn Java at [Job4j](https://job4j.ru/)</h3>
 
 
-- :telescope: I want to work as a Software Java Engineer and contributing to backend for my work helps people.
+- :telescope: I want to become a Senior Software Java Engineer and contributing to backend for my work helps people.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems and read tech articles.
+- :zap: In my free time, I watch my son is growing up and try to help him to become a better human than me.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vsevolod_prof-blue?style=flat&logo=Telegram&logoColor=white)](@vsevolod_prof)
 
