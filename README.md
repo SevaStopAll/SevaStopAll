@@ -23,8 +23,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SevaStopAll&hide=stars,prs,issues,contribs) 
 
 
-##### Projects:
-My current Project! [A kind of school application](https://github.com/SevaStopAll/school_app)
+##### Pet Projects:
+My last Project! [A kind of school application](https://github.com/SevaStopAll/school_app)
 Other projects: 
 1. [REST microservices Delivery service](https://github.com/SevaStopAll/job4j_order)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/SevaStopAll/job4j_grabber)
